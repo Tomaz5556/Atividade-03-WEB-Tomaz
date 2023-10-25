@@ -1,2 +1,2 @@
-# Atividade-03-WEB-Tomaz
-Aprofundando nos conhecimentos da linguagem HTML
+# Tomaz Martins Batista
+Atividade HTML para Disciplina Desenvolvimento WEB - Aprofundando nos conhecimentos da linguagem HTML
